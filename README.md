@@ -9,3 +9,4 @@ Finally some more changes
 
  * first item
  * second item
+ * third item
